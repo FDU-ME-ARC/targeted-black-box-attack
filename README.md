@@ -34,7 +34,7 @@ Code of Targeted Black Box Adversarial Attack Method for Image Classification Mo
 
 ## 3. Test environment: 
 
->* CPU: Intel E5-2430 X 2, GPU: NVIDIA GTX1070Ti
+>* CPU: Intel E5-2430 X 2, GPU: NVIDIA GTX1070Ti, tensorflow 1.8-1.14
 
 ## 4. Notes: 
 
