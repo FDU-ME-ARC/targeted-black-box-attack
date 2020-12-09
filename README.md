@@ -8,6 +8,10 @@ Code of Targeted Black Box Adversarial Attack Method for Image Classification Mo
 
 >* AdvMNIST.py: train an adversarial attack model on MNIST dataset. 
 
+>* FashionMNIST.py: train a model on MNIST dataset. 
+
+>* AdvFashionMNIST.py: train an adversarial attack model on MNIST dataset. 
+
 >* CIFAR10.py: train a model on CIFAR10 dataset. 
 
 >* AdvCIFAR10.py: train an adversarial attack model on CIFAR10 dataset.  
